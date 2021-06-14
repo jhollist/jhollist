@@ -24,4 +24,4 @@ You can find out more about me at <https://jwhollister.com>
 ## GitHub Stats
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhollist&show_icons=&private_count=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrypj&layout=compact)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhollist&layout=compact)]()
