@@ -21,6 +21,14 @@ My name is Jeff, and my pronouns are he/him. I live in Rhode Island with my wife
 
 You can find out more about me at <https://jwhollister.com>
 
+And since I always forget how to set up git credentials for RStudio and GitHub...
+- usethis::gh_token_help() - for some useful info.
+- usethis::create_github_token() - don't forget to copy the token
+  - Don't forget SSO Authorization if relevant
+- gitcreds::gitcreds_set() - paste your token at the prompt
+- usethis::git_sitrep() - just to make sure it all worked!
+- Also, usethis::edit_git_config can be useful
+
 ## GitHub Stats
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhollist&show_icons=&private_count=true)
