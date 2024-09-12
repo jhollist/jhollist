@@ -29,6 +29,8 @@ And since I always forget how to set up git credentials for RStudio and GitHub..
 - usethis::git_sitrep() - just to make sure it all worked!
 - Also, usethis::edit_git_config can be useful
 
+And other things I know I will forget, but find useful from time to time.
+- linux cpu/memory monitor: top
 ## GitHub Stats
 
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhollist&show_icons=&private_count=true)
