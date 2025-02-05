@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jeffrey W. Hollister ([@jhollist](https://twitter.com/jhollist))
-
-My name is Jeff, and my pronouns are he/him. I live in Rhode Island with my wife and kids. 
-
-You can find out more about me at <https://jwhollister.com>
+# Jeffrey W. Hollister 
 
 And since I always forget how to set up git credentials for RStudio and GitHub...
 - usethis::gh_token_help() - for some useful info.
